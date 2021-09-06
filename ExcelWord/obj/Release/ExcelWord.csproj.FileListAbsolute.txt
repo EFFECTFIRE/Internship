@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ExcelWord\bin\Release\ExcelWord.exe.config
+C:\Users\PC\source\repos\ExcelWord\bin\Release\ExcelWord.exe
+C:\Users\PC\source\repos\ExcelWord\bin\Release\ExcelWord.pdb
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.Form1.resources
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.Properties.Resources.resources
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.exe
+C:\Users\PC\source\repos\ExcelWord\obj\Release\ExcelWord.pdb
